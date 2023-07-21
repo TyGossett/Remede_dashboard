@@ -1,0 +1,1 @@
+ Dash, pandas, plotly, gunicorn, datetime, pathlib
